@@ -1,1 +1,16 @@
-Machine Learning project for Walmart Sales Prediction using regression, classification, and clustering techniques.
+# Walmart Sales Prediction 📊
+
+## 📝 Project Description
+This project uses **Machine Learning** techniques to predict Walmart's weekly sales. The dataset includes features like store size, promotions, and holidays.
+
+## 📁 Dataset
+- `features.csv`
+- `stores.csv`
+- `train.csv`
+- `test.csv`
+
+## ⚙️ Models Used
+- **Regression**: Predict weekly sales (Random Forest Regressor)
+- **Classification**: Identify high sales weeks
+- **Clustering**: Group stores based on features
+  
