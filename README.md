@@ -1,4 +1,4 @@
-# Walmart Sales Prediction 📊
+# Walmart Sales Prediction 📊 
 
 ## 📝 Project Description
 This project uses **Machine Learning** techniques to predict Walmart's weekly sales. The dataset includes features like store size, promotions, and holidays.
