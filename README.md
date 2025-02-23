@@ -11,6 +11,6 @@ This project uses **Machine Learning** techniques to predict Walmart's weekly sa
 
 ## ⚙️ Models Used
 - **Regression**: Predict weekly sales (Random Forest Regressor)
-- **Classification**: Identify high sales weeks
-- **Clustering**: Group stores based on features
+- **Classification**: Identify high sales weeks (XGBoost Classifier)
+- **Clustering**: Group stores based on features (K-Means Clustering)
   
